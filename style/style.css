@@ -19,9 +19,13 @@
 
 .section-services,
 .section-quality {
-    margin: 20rem 0;
+    margin: 10rem 0;
 }
 
 footer {
     padding: 2rem 0;
+}
+
+.bg-main {
+    background: linear-gradient(37deg, #0072ff 0%, #0B5ED7 100%);
 }
