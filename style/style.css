@@ -1,0 +1,27 @@
+.carousel-item {
+    height: 70vh;
+}
+.carousel-item img {
+    height: 70vh;
+    object-position: cover;
+}
+
+.section-statistic {
+    margin-top: -3.5rem;
+    position: relative;
+}
+
+.statistic-item {
+    background: linear-gradient(37deg, #0072ff 0%, #0B5ED7 100%);
+    color: #fff;
+    padding: 1rem 0;
+}
+
+.section-services,
+.section-quality {
+    margin: 20rem 0;
+}
+
+footer {
+    padding: 2rem 0;
+}
